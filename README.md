@@ -4,14 +4,14 @@ Hi I'm NANDITA GARGAYAN
 
 Email Me 👉 ✉️ **gargayannandita356@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** SmartExpenseAI using Machine Learning and Flask.
+- 🌱 **I’m currently learning:** Data Analytics, Machine Learning, Cyber Security, SQL, Power BI, and Advanced Python Development.
+- 👯 **I’m looking to collaborate on:** AI/ML Projects, Data Analytics Dashboards and Cyber Security Tools,
+- 🤔 **I’m looking for help with:** Real-World AI Project Development.
+- 💬 **Ask me about:** Python, C++, Data Analytics, Machine Learning, Cyber Security, Web Development, and Project Building.
+- 📫 **How to reach me:** gargayannandita356@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I love turning data into insights and solving real-world problems with technology.
 
 - <!-- Snake Game Repo View -->
 
