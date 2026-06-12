@@ -1,6 +1,8 @@
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+Hi I'm NANDITA GARGAYAN
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+**I’m a Computer Science undergraduate with a strong interest in both Data Analytics and Cyber Security. I enjoy turning raw data into meaningful insights and securing digital system frm modern threats. I work with tools and technologies that help me analyze data, detect vulnerabilities and build intelligent, secure solution. My goal is to leverage data and security to create a safer and smarter digital world.**
+
+Email Me 👉 ✉️ **gargayannandita356@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
@@ -16,6 +18,8 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morelight_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandita-data-analyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargayannandita356@gmail.com) 
 
