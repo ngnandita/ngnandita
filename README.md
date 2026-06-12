@@ -1,8 +1,7 @@
-Hi I'm NANDITA GARGAYAN
+Hi 👋, I'm Nandita Gargayan
 
-**I’m a Computer Science undergraduate with a strong interest in both Data Analytics and Cyber Security. I enjoy turning raw data into meaningful insights and securing digital system frm modern threats. I work with tools and technologies that help me analyze data, detect vulnerabilities and build intelligent, secure solution. My goal is to leverage data and security to create a safer and smarter digital world.**
+**Computer Science Undergraduate | Data Analytics Enthusiast | Cyber Security Learner**
 
-Email Me 👉 ✉️ **gargayannandita356@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** SmartExpenseAI using Machine Learning and Flask.
 - 🌱 **I’m currently learning:** Data Analytics, Machine Learning, Cyber Security, SQL, Power BI, and Advanced Python Development.
