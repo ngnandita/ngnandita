@@ -12,7 +12,7 @@ Hi 👋, I'm Nandita Gargayan
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I love turning data into insights and solving real-world problems with technology.
 
-- <!-- Snake Game Repo View -->
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
