@@ -9,6 +9,7 @@ Hi 👋, I'm Nandita Gargayan
 - 🤔 **I’m looking for help with:** Real-World AI Project Development.
 - 💬 **Ask me about:** Python, C++, Data Analytics, Machine Learning, Cyber Security, Web Development, and Project Building.
 - 📫 **How to reach me:** gargayannandita356@gmail.com
+- 💬 **Linkedin Profile:** https://www.linkedin.com/in/ng-data-analyst/
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I love turning data into insights and solving real-world problems with technology.
 
